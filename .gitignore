@@ -1,0 +1,13 @@
+node_modules
+
+*.env*
+*.log*
+*log.txt*
+
+.idea
+*.iml*
+.vscode
+
+target
+dist
+out
